@@ -11,4 +11,3 @@ df = pd.read_csv(filename, header=None, names=column_names)
 
 # Muestra el DataFrame
 print(df)
-
